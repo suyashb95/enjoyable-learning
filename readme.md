@@ -9,6 +9,7 @@
 ### Functional Programming λ
 
  - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
+ - [Inventing Monads](https://stopa.io/post/247)
 
 ### Networking 🖧
 
